@@ -16,7 +16,7 @@ This portfolio was crafted to highlight my skills, experience and passion in fro
 
 ## Preview
 
-![Portfolio Preview](https://placehold.co/1000x600/0f172a/ffffff?text=Portfolio+Preview)
+![Portfolio Preview](https://otienogifton.netlify.app/)
 
 ---
 
