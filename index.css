@@ -9,19 +9,19 @@
 
 /* Body Styling */
 body {
-  font-family: "Inter", sans-serif; /* Fallback to sans-serif */
   background: linear-gradient(to bottom, #121a2e 0%, #161616 80%);
-  color: #ffffff; /* White text color */
+  color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   position: relative;
-  overflow-x: hidden; /* Prevent horizontal scroll */
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
 }
 
-/* Blurred elements (simulating the image) */
+/* Blurred elements that i used in the background */
 .blurred-shape-1 {
   position: absolute;
   top: 15%;
