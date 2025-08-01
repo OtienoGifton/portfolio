@@ -16,7 +16,7 @@ This portfolio was crafted to highlight my skills, experience and passion in fro
 
 ## Preview
 
-![Portfolio Preview](https://otienogifton.netlify.app/)
+![Portfolio Preview](images/preview.png)
 
 ---
 
