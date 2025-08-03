@@ -548,7 +548,7 @@ body {
   border-radius: 1rem;
   max-width: 800px;
   margin: 4rem auto;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 20px rgba(31, 30, 30, 0.3);
 }
 
 .contact-header h2 {
